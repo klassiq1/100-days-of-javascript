@@ -55,3 +55,5 @@ Here we have list of projects:
 
 We create a project each 3 days with voting on our <a href="https://youtube.com/@AsmrProg" target="_blank">Youtube</a> channel.
 You can vote for upcoming projects on our channel **community** page :wink:
+
+https://morioh.com/p/cb9c4d915ab7?f=5eba5842444df05d1248ec97&s=08
